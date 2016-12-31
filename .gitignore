@@ -1,0 +1,13 @@
+files to ignore
+# backup files (*~) and vim swap file (.swp), MacOS dir file (.DS_Store)
+*~
+*.lock
+*.DS_Store
+.*.swp
+*.out
+
+# loopinstall-developement tool
+loopinstall.sh
+
+# except this file
+!.gitignore

@@ -1,0 +1,11 @@
+W A N P I N G
+= Changelog =
+
+- wanping is now conform to FHS
+- wanping can now detect if its already running and can be paused or stopped
+- deutsche Textausgabe
+- Kann jetzt eine .csv-Datei aus dem Logfile erzeugen
+- Kein packetloss in % mehr in der .csv-Datei
+- Länge des Shortlogs ist wird nun wie in der Konfig festgelegt eingehalten, statt hartcodiert auf 15000 gesetzt
+
+= To do =
